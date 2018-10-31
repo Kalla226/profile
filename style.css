@@ -23,13 +23,6 @@ a {
   text-decoration: none;
 }
 
-button {background-color: #00adb5;
-  line-height: 25px;
-  font-size: 15px;
-  text-align: center;
-  border-radius: 2px;
-}
-
 a:hover {
   color: #00adb5;
   text-decoration: underline;
@@ -37,8 +30,8 @@ a:hover {
 
 
 #logo{
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   border-radius: 200px;
 }
 
